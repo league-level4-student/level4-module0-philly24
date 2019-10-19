@@ -1,4 +1,4 @@
-package _04_Maze_Maker;
+ package _04_Maze_Maker;
 import java.awt.Color;
 import java.awt.Graphics;
 
